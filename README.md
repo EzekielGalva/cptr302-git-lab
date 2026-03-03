@@ -1,2 +1,2 @@
 # cptr302-git-lab
-Class Assignment
+Collaborative Git project

@@ -1,2 +1,5 @@
 # cptr302-git-lab
-Collaborative Git project
+Class Assignment
+
+
+Team 12: Leaning Git together
